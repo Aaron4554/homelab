@@ -67,53 +67,56 @@
         <mxCell id="LRVqqaj4wzIRtQj1PEUi-77" parent="LRVqqaj4wzIRtQj1PEUi-81" style="rounded=0;whiteSpace=wrap;html=1;" value="Ollama" vertex="1">
           <mxGeometry height="15" width="50" x="5" as="geometry" />
         </mxCell>
-        <mxCell id="LRVqqaj4wzIRtQj1PEUi-95" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;PiHole&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;OS = Debian 13&lt;br&gt;Runs as = Service&lt;br&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="70" width="160" x="10" y="20" as="geometry" />
-        </mxCell>
-        <mxCell id="LRVqqaj4wzIRtQj1PEUi-96" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="10.0.0.2/admin" vertex="1">
-          <mxGeometry height="30" width="90" x="180" y="20" as="geometry" />
-        </mxCell>
-        <mxCell id="LRVqqaj4wzIRtQj1PEUi-98" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;QOL&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;OS = Debian 13&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p&gt;firefly III: 8081&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;Grafana: 2999&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Homepage: 3000&lt;/p&gt;&lt;p&gt;Obsidian-livesync: 5984&lt;/p&gt;&lt;p&gt;Prometheus: 9090&lt;/p&gt;&lt;p&gt;stirling-pdf: 8080&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;uptimekuma: 3001&lt;/p&gt;" vertex="1">
-          <mxGeometry height="240" width="140" x="290" y="20" as="geometry" />
-        </mxCell>
-        <mxCell id="LRVqqaj4wzIRtQj1PEUi-100" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="10.0.0.5" vertex="1">
-          <mxGeometry height="30" width="60" x="440" y="20" as="geometry" />
-        </mxCell>
-        <mxCell id="LRVqqaj4wzIRtQj1PEUi-103" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Media&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;OS = Fedora Server 44&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;immich: 2283&lt;/p&gt;" vertex="1">
-          <mxGeometry height="90" width="160" x="520" y="20" as="geometry" />
-        </mxCell>
-        <mxCell id="LRVqqaj4wzIRtQj1PEUi-104" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="10.0.0.6" vertex="1">
-          <mxGeometry height="30" width="60" x="690" y="20" as="geometry" />
-        </mxCell>
-        <mxCell id="LRVqqaj4wzIRtQj1PEUi-107" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Portfolio&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;OS = Fedora Server 44&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Cloudflare-tunnel as Container&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Nginx as Service&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Github runner as Service&lt;/p&gt;" vertex="1">
-          <mxGeometry height="110" width="170" x="10" y="129" as="geometry" />
-        </mxCell>
-        <mxCell id="LRVqqaj4wzIRtQj1PEUi-108" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="10.0.0.43" vertex="1">
-          <mxGeometry height="30" width="60" x="190" y="129" as="geometry" />
-        </mxCell>
-        <mxCell id="LRVqqaj4wzIRtQj1PEUi-109" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b style=&quot;&quot;&gt;pfSense&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;OS = pfSense&lt;/p&gt;" vertex="1">
-          <mxGeometry height="50" width="160" x="520" y="154" as="geometry" />
-        </mxCell>
-        <mxCell id="LRVqqaj4wzIRtQj1PEUi-110" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="WAN: 10.0.0.48" vertex="1">
-          <mxGeometry height="30" width="60" x="686" y="154" as="geometry" />
-        </mxCell>
-        <mxCell id="LRVqqaj4wzIRtQj1PEUi-111" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="LAN: TBD" vertex="1">
-          <mxGeometry height="30" width="60" x="686" y="184" as="geometry" />
-        </mxCell>
         <mxCell id="LRVqqaj4wzIRtQj1PEUi-112" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Ollama&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;granite4.1:8b&lt;br&gt;llama3.1:8b&lt;br&gt;tinyllama:latest&lt;br&gt;llama3.2:3b&lt;/p&gt;" vertex="1">
           <mxGeometry height="90" width="94" x="723.57" y="850" as="geometry" />
         </mxCell>
-        <mxCell id="LRVqqaj4wzIRtQj1PEUi-115" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;dashed=1;dashPattern=8 8;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Portainer&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;OS = Debain 13&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Portainer as container&lt;/p&gt;" vertex="1">
-          <mxGeometry height="90" width="160" x="20" y="270" as="geometry" />
+        <mxCell id="LRVqqaj4wzIRtQj1PEUi-119" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="340" width="740" x="100" y="610" as="geometry" />
         </mxCell>
-        <mxCell id="LRVqqaj4wzIRtQj1PEUi-116" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="10.0.0.3:9443" vertex="1">
-          <mxGeometry height="30" width="80" x="190" y="270" as="geometry" />
+        <mxCell id="LRVqqaj4wzIRtQj1PEUi-95" parent="LRVqqaj4wzIRtQj1PEUi-119" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;PiHole&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;OS = Debian 13&lt;br&gt;Runs as = Service&lt;br&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="70" width="160" as="geometry" />
         </mxCell>
-        <mxCell id="LRVqqaj4wzIRtQj1PEUi-117" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;dashed=1;dashPattern=8 8;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Ansible&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;OS = Debian 13&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Cron schedule:&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;0300 sundays: update.yml&lt;/p&gt;" vertex="1">
-          <mxGeometry height="90" width="160" x="280" y="270" as="geometry" />
+        <mxCell id="LRVqqaj4wzIRtQj1PEUi-96" parent="LRVqqaj4wzIRtQj1PEUi-119" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="10.0.0.2/admin" vertex="1">
+          <mxGeometry height="30" width="90" x="170" as="geometry" />
         </mxCell>
-        <mxCell id="LRVqqaj4wzIRtQj1PEUi-118" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="10.0.0.4" vertex="1">
-          <mxGeometry height="30" width="60" x="450" y="270" as="geometry" />
+        <mxCell id="LRVqqaj4wzIRtQj1PEUi-98" parent="LRVqqaj4wzIRtQj1PEUi-119" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;QOL&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;OS = Debian 13&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p&gt;firefly III: 8081&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;Grafana: 2999&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Homepage: 3000&lt;/p&gt;&lt;p&gt;Obsidian-livesync: 5984&lt;/p&gt;&lt;p&gt;Prometheus: 9090&lt;/p&gt;&lt;p&gt;stirling-pdf: 8080&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;uptimekuma: 3001&lt;/p&gt;" vertex="1">
+          <mxGeometry height="240" width="140" x="280" as="geometry" />
+        </mxCell>
+        <mxCell id="LRVqqaj4wzIRtQj1PEUi-100" parent="LRVqqaj4wzIRtQj1PEUi-119" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="10.0.0.5" vertex="1">
+          <mxGeometry height="30" width="60" x="430" as="geometry" />
+        </mxCell>
+        <mxCell id="LRVqqaj4wzIRtQj1PEUi-103" parent="LRVqqaj4wzIRtQj1PEUi-119" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Media&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;OS = Fedora Server 44&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;immich: 2283&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="160" x="510" as="geometry" />
+        </mxCell>
+        <mxCell id="LRVqqaj4wzIRtQj1PEUi-104" parent="LRVqqaj4wzIRtQj1PEUi-119" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="10.0.0.6" vertex="1">
+          <mxGeometry height="30" width="60" x="680" as="geometry" />
+        </mxCell>
+        <mxCell id="LRVqqaj4wzIRtQj1PEUi-107" parent="LRVqqaj4wzIRtQj1PEUi-119" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Portfolio&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;OS = Fedora Server 44&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Cloudflare-tunnel as Container&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Nginx as Service&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Github runner as Service&lt;/p&gt;" vertex="1">
+          <mxGeometry height="110" width="170" y="109" as="geometry" />
+        </mxCell>
+        <mxCell id="LRVqqaj4wzIRtQj1PEUi-108" parent="LRVqqaj4wzIRtQj1PEUi-119" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="10.0.0.43" vertex="1">
+          <mxGeometry height="30" width="60" x="180" y="109" as="geometry" />
+        </mxCell>
+        <mxCell id="LRVqqaj4wzIRtQj1PEUi-109" parent="LRVqqaj4wzIRtQj1PEUi-119" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b style=&quot;&quot;&gt;pfSense&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;OS = pfSense&lt;/p&gt;" vertex="1">
+          <mxGeometry height="50" width="160" x="510" y="134" as="geometry" />
+        </mxCell>
+        <mxCell id="LRVqqaj4wzIRtQj1PEUi-110" parent="LRVqqaj4wzIRtQj1PEUi-119" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="WAN: 10.0.0.48" vertex="1">
+          <mxGeometry height="30" width="60" x="676" y="134" as="geometry" />
+        </mxCell>
+        <mxCell id="LRVqqaj4wzIRtQj1PEUi-111" parent="LRVqqaj4wzIRtQj1PEUi-119" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="LAN: TBD" vertex="1">
+          <mxGeometry height="30" width="60" x="676" y="164" as="geometry" />
+        </mxCell>
+        <mxCell id="LRVqqaj4wzIRtQj1PEUi-115" parent="LRVqqaj4wzIRtQj1PEUi-119" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;dashed=1;dashPattern=8 8;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Portainer&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;OS = Debain 13&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Portainer as container&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="160" x="10" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="LRVqqaj4wzIRtQj1PEUi-116" parent="LRVqqaj4wzIRtQj1PEUi-119" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="10.0.0.3:9443" vertex="1">
+          <mxGeometry height="30" width="80" x="180" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="LRVqqaj4wzIRtQj1PEUi-117" parent="LRVqqaj4wzIRtQj1PEUi-119" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;dashed=1;dashPattern=8 8;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Ansible&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;OS = Debian 13&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Cron schedule:&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;0300 sundays: update.yml&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="160" x="270" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="LRVqqaj4wzIRtQj1PEUi-118" parent="LRVqqaj4wzIRtQj1PEUi-119" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="10.0.0.4" vertex="1">
+          <mxGeometry height="30" width="60" x="440" y="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
