@@ -4,7 +4,7 @@ Documentation is like laundry; no one likes doing it, it builds up over time, no
 ## Folder Structure
 I'd like if it ended up like this
 ```
-|- Current
+|- current
   |- topologies
     |- deploymentTopologies
       |- .drawio
