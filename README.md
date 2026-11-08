@@ -20,6 +20,6 @@ I'd like if it ended up like this
       |- device-ADR.md
     |- applications
       |- app-ADR.md
-|- Future
+|- future
   |- path/to/future/plan/file
 ```
