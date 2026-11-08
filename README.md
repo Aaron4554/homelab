@@ -4,20 +4,37 @@ Documentation is like laundry; no one likes doing it, it builds up over time, no
 ## Folder Structure
 I'd like if it ended up like this
 |- Current\<br>
+
   |- topologies\<br>
+
     |- deploymentTopologies\<br>
+
       |- .drawio\<br>
+
       |- .drawio.png\<br>
+
     |- physicalTopologies\<br>
+
       |- .drawio\<br>
+
       |- .drawio.png\<br>
+
     |- logicalTopologies\<br>
+
       |- .drawio\<br>
+
       |- .drawio.png\<br>
+
   |- ADLs\<br>
+
     |- physicalDevices\<br>
+
       |- device-ADR.md\<br>
+
     |- applications\<br>
+
       |- app-ADR.md\<br>
+
 |- Future\<br>
+
   |- path/to/future/plan/file
