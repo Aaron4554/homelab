@@ -4,22 +4,27 @@ Documentation is like laundry; no one likes doing it, it builds up over time, no
 ## Folder Structure
 I'd like if it ended up like this
 ```
-|- current
-  |- topologies
-    |- deploymentTopologies
+|- current/
+  |- topologies/
+    |- deploymentTopologies/
       |- .drawio
       |- .drawio.png
-    |- physicalTopologies
+    |- physicalTopologies/
       |- .drawio
       |- .drawio.png
-    |- logicalTopologies
-      |- .drawio
-      |- .drawio.png
-  |- ADLs
-    |- physicalDevices
+    |- logicalTopologies/
+      |- networkOverview/
+        |- .drawio
+        |- .drawio.png
+      |- applications/
+        |- app/
+          |- .drawio
+          |- .drawio.png
+  |- ADLs/
+    |- physicalDevices/
       |- device-ADR.md
-    |- applications
+    |- applications/
       |- app-ADR.md
-|- future
+|- future/
   |- path/to/future/plan/file
 ```
