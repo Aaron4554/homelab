@@ -22,9 +22,11 @@ I'd like if it ended up like this
           |- .drawio.png
   |- ADLs/
     |- physicalDevices/
-      |- device-ADR.md
+      |- device/
+        |- device-ADR.md
     |- applications/
-      |- app-ADR.md
+      |- app/
+        |- app-ADR.md
 |- future/
   |- path/to/future/plan/file
 ```
