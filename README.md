@@ -21,12 +21,7 @@ I'd like if it ended up like this
           |- .drawio
           |- .drawio.png
   |- ADLs/
-    |- physicalDevices/
-      |- device/
-        |- device-ADR.md
-    |- applications/
-      |- app/
-        |- app-ADR.md
+    |- ADR:xxxx: Decision
 |- future/
   |- path/to/future/plan/file
 ```
